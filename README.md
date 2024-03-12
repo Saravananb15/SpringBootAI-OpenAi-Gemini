@@ -1,3 +1,3 @@
 # SpringBootAI-OpenAi-Gemini
 
-integrating AI into spring boot application.
+Integrating AI into spring boot application.
